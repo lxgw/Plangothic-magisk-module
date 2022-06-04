@@ -26,6 +26,10 @@
 
 以上方法适用于 Android 7.0 及以上版本的 Android，对于 Android 5.0～6.0 的用户，可参考知乎文章：[「下载并安装使用超大字库的具体步骤」](https://zhuanlan.zhihu.com/p/26524450)。
 
+## 效果预览
+![WTVIM.png](https://s1.328888.xyz/2022/06/04/WTVIM.png)
+![WTZv7.png](https://s1.328888.xyz/2022/06/04/WTZv7.png)
+
 ## 模块下载
 
 [请进入 Releases 页面下载](https://github.com/lxgw/Plangothic-magisk-module/releases) 
@@ -57,3 +61,4 @@ Magisk 最低支持版本 20.4。
 - **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
+
