@@ -28,7 +28,7 @@
 
 ## 模块下载
 
-[请进入 Releases 页面下载](Releases) 
+[请进入 Releases 页面下载](https://github.com/lxgw/Plangothic-magisk-module/Releases) 
 
 Magisk 最低支持版本 20.4。
 
