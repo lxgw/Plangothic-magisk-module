@@ -1,7 +1,7 @@
 # id 只能填 字母 数字 半角符号
-id=Module-Template
-name=模块模板
-version=v1
+id=alxgwplango
+name=TTF 字体套用模板（多字重）
+version=0.39037
 versionCode=1
-author=Petit Abba
-description=一个简短的描述
+author=lxgw (github.com/lxgw)
+description=使用“遍黑体”扩充字库。微信公众号：霞鹜（lxgwshare）；微博：孤鹜先森；酷安/少数派：落霞孤鹜lxgw。 GitHub 项目地址：https://github.com/lxgw/Plangothic-magisk-module，使用说明请见 README.md 文件。
