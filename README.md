@@ -47,5 +47,5 @@ Magisk 最低支持版本 20.4。
 > 严禁任何个人、企业、团队对该字体文件进行售卖（包括但不限于将字体文件单独售卖，与其他字体进行捆绑售卖、需付费办理特殊权限才可使用字体等行为），如您是付费获得的此字体，请立刻对其进行举报，必要时可协助相关司法机关。
 
 ## 鸣谢
-- @Fitzgerald-Porthmouth-Koenigsegg 制作「遍黑体」
-- @Petit-Abba 提供 Magisk 模块模板
+- [@蔽芪茢](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 制作「遍黑体」
+- [@阿巴酱](https://github.com/Petit-Abba) 提供 Magisk 模块模板
