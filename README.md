@@ -2,7 +2,7 @@
 
 ## 模块简介
 
-遍黑体（世界语：Planogotiko；道本语：sitelen Pankosi）是基于思源黑体进行字符扩展及补充的项目。该项目由 (@蔽芪茢)[Fitzgerald-Porthmouth-Koenigsegg] 在大约 2020 年 6 月份所开启，其最终目标是尽可能补全整个 Unicode，并制作出一部分原本没有黑体风格字符的黑体（以中日韩統一表意文字为主）。
+遍黑体（世界语：Planogotiko；道本语：sitelen Pankosi）是基于思源黑体进行字符扩展及补充的项目。该项目由 [@蔽芪茢](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 在大约 2020 年 6 月份所开启，其最终目标是尽可能补全整个 Unicode，并制作出一部分原本没有黑体风格字符的黑体（以中日韩統一表意文字为主）。
 
 本模块旨在实现在系统字体文件夹 `\system\fonts` 内加入 [遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/) 1、2 部分字体，配合修改好的 fonts.xml *（需要自己修改）* ，达到补全手机字库的目的。
 
@@ -38,7 +38,7 @@ Magisk 最低支持版本 20.4。
 
 ## 字体来源
 
-[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic) 由 (@蔽芪茢)[Fitzgerald-Porthmouth-Koenigsegg] 主持制作，基于 [思源黑体](https://github.com/adobe-fonts/source-han-sans) 进行字符扩展及补充。 
+[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic) 由 [@蔽芪茢](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 主持制作，基于 [思源黑体](https://github.com/adobe-fonts/source-han-sans) 进行字符扩展及补充。 
 
 > 本字体基于SIL Open Font License修改、补充思源黑体和发布。详见授权文件。
 > 
