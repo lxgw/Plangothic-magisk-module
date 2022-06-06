@@ -3,7 +3,7 @@
 
 ## 模块简介
 
-[遍黑体](http://martingrocery.top/Plangothic/)（世界语：Planogotiko；道本语：sitelen Pankosi）是基于思源黑体进行字符扩展及补充的项目。该项目由 [@蔽芪茢](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 在大约 2020 年 6 月份所开启，其最终目标是尽可能补全整个 Unicode，并制作出一部分原本没有黑体风格字符的黑体（以中日韩統一表意文字为主）。目前字形完善中，扩展 D、G、H（草案）区已完成。该项目长期招贤纳士，任何人都可以参与到遍黑体项目的制作过程当中，详见 [遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic) 项目专页。
+[遍黑体](http://martingrocery.top/Plangothic/)（PlanGothic）是基于思源黑体进行字符扩展及补充的项目。该项目由 [@蔽芪茢](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 在大约 2020 年 6 月份所开启，其最终目标是尽可能补全整个 Unicode，并制作出一部分原本没有黑体风格字符的黑体（以中日韩統一表意文字为主）。目前字形完善中，扩展 D、G、H（草案）区已完成。该项目长期招贤纳士，任何人都可以参与到遍黑体项目的制作过程当中，详见 [遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic) 项目专页。
 
 本 Magisk 模块旨在实现在系统字体文件夹 `\system\fonts` 内加入 [遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/) 1、2 部分字体，配合修改好的 fonts.xml *（需要自己修改）* ，达到补全手机字库的目的。
 
@@ -26,9 +26,13 @@
 
 以上方法适用于 Android 7.0 及以上版本的 Android，对于 Android 5.0～6.0 的用户，可参考知乎文章：[「下载并安装使用超大字库的具体步骤」](https://zhuanlan.zhihu.com/p/26524450)。
 
+## 效果预览
+![WTVIM.png](https://s1.328888.xyz/2022/06/04/WTVIM.png)
+![WTZv7.png](https://s1.328888.xyz/2022/06/04/WTZv7.png)
+
 ## 模块下载
 
-[请进入 Releases 页面下载](Releases) 
+[请进入 Releases 页面下载](https://github.com/lxgw/Plangothic-magisk-module/releases) 
 
 Magisk 最低支持版本 20.4。
 
@@ -57,3 +61,4 @@ Magisk 最低支持版本 20.4。
 - **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
+
