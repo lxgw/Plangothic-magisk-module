@@ -43,7 +43,7 @@ Magisk 最低支持版本 20.4。
 
 ## 字体来源
 
-[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic) 由 [@蔽芪茢](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 主持制作，基于 [思源黑体](https://github.com/adobe-fonts/source-han-sans) 进行字符扩展及补充。 
+[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic) 由 [@Fitzgerald Yu](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 主持制作，基于 [思源黑体](https://github.com/adobe-fonts/source-han-sans) 进行字符扩展及补充。 
 
 > 本字体基于 SIL Open Font License 修改、补充思源黑体和发布。详见授权文件。
 > 
