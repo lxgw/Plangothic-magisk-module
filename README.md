@@ -3,7 +3,7 @@
 
 ## 模块简介
 
-**遍黑体**是基于思源黑体进行字符扩展及补充的项目。该项目由 [@FitzgeraldYu](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 在大约 2020 年 6 月份所开启，其最终目标是尽可能补全整个 Unicode，并制作出一部分原本没有黑体风格字符的黑体（以中日韩统一表意文字为主）。目前字形完善中，扩展 C、D、G、H 区已完成，即将完成扩展 E 区。该项目长期招贤纳士，任何人都可以参与到遍黑体项目的制作过程当中，详见 [遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic) 项目专页。
+**遍黑体**是基于思源黑体进行字符扩展及补充的项目。该项目由 [@FitzgeraldYu](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 在大约 2020 年 6 月份所开启，其最终目标是尽可能补全整个 Unicode，并制作出一部分原本没有黑体风格字符的黑体（以中日韩统一表意文字为主）。目前字形完善中，扩展 C、D、E、G、H 区已完成，目前正在进行字形精修及扩展 B、F 区字形制作。该项目长期招贤纳士，任何人都可以参与到遍黑体项目的制作过程当中，详见 [遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic) 项目专页。
 
 本 Magisk 模块旨在实现在系统字体文件夹 `\system\fonts` 内加入 [遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/) 1、2 部分字体，配合修改好的 fonts.xml *（需要自己修改）* ，达到补全手机字库的目的。
 
@@ -43,13 +43,11 @@ Magisk 最低支持版本 20.4。
 
 ## 字体来源
 
-[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic) 由 [@Fitzgerald Yu](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 主持制作，基于 [思源黑体](https://github.com/adobe-fonts/source-han-sans) 进行字符扩展及补充。 
+[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic) 由 [@FitzgeraldYu](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 主持制作，基于 [思源黑体](https://github.com/adobe-fonts/source-han-sans) 进行字符扩展及补充。 
 
 > 本字体基于 SIL Open Font License 修改、补充思源黑体和发布。详见授权文件。
 > 
-> 遍黑体项目下所有的字体，任何个人、企业、团队皆可免费使用。但请注意，在进行二次修改时，严禁再使用“Plangothic”、“遍黑体”等名称，二次修改过后的版本亦必须以SIL Open Font License发表。
-> 
-> 严禁任何个人、企业、团队对该字体文件进行售卖（包括但不限于将字体文件单独售卖，与其他字体进行捆绑售卖、需付费办理特殊权限才可使用字体等行为），如您是付费获得的此字体，请立刻对其进行举报，必要时可协助相关司法机关。
+> 遍黑体项目下所有的字体，任何个人、企业、团队皆可免费使用。但请注意，在进行二次修改时，严禁再使用“Plangothic”、“遍黑体”等名称，二次修改过后的版本亦必须以SIL Open Font License发表。严禁任何个人、企业、团队对该字体文件进行售卖。
 
 ## 鸣谢
 - [@FitzgeraldYu](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 主持制作并发布「遍黑体」字体文件
