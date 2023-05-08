@@ -1,7 +1,7 @@
 # id 只能填 字母 数字 半角符号
 id=alxgwplango
 name=遍黑体字库扩充模块
-version=v0.7.5708
+version=v0.8.5735
 versionCode=1
 author=lxgw (github.com/lxgw)
-description=使用“遍黑体”扩充字库。微信公众号：霞鹜（lxgwshare）；微博：孤鹜先森；酷安/少数派：落霞孤鹜lxgw。 GitHub 项目地址：https://github.com/lxgw/Plangothic-magisk-module ，使用说明请见 README.md 文件。遍黑体项目地址：https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic 。
+description=使用“遍黑体”扩充字库。微信公众号：霞鹜（lxgwshare）；微博：孤鹜先森；酷安/少数派：落霞孤鹜lxgw。 GitHub 项目地址：https://github.com/lxgw/Plangothic-magisk-module ，使用说明请见 README.md 文件。遍黑体项目地址：https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project 。
